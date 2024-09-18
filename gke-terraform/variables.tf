@@ -12,6 +12,6 @@ variable "region" {
   description = "gcp region"
 }
 variable "project" {
-    default = "istioproject"
+    default = "istioproject-435421"
     description = "defaultproject"
  }
